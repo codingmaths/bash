@@ -23,6 +23,9 @@
 ### ticket_distributor.py: 
   ```script to distribute tickets/number randomly to multiple users```
 
+### url_up_down_slack.sh
+  ```check if a url is up/accessible and send slack notification```
+
 ## backup directory:  
   ```Scripts to take linux server backup on remote server```
 
